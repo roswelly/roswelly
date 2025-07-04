@@ -12,7 +12,7 @@
 
 ### Main Language
 
-<p align='center'>
+<p>
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-%23363636?style=flat&logo=ethereum" />
   <img src="https://img.shields.io/badge/Move-%23FF3C00?style=flat&logo=sui" />
