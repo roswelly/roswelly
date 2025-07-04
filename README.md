@@ -6,7 +6,7 @@
 ---
 
 ### Connect with Me
-<p align='center>
+<p align='center'>
 [![Twitter](https://img.shields.io/badge/Twitter-@caterpillardev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/caterpillardev)
 [![GitHub](https://img.shields.io/badge/GitHub-caterpillardev-181717?style=flat-square&logo=github)](https://github.com/caterpillardev)
 [![Email](https://img.shields.io/badge/Email-yabidev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yabidev@gmail.com)
