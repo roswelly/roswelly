@@ -1,9 +1,5 @@
 
-<p align="center">
-  <b size='20'> Blockchain Developer | Smart Contract Engineer | Full-Stack Web3 Developer</b>
-</p>
-
----
+## Blockchain Developer | Smart Contract Engineer | Full-Stack Web3 Developer
 
 ### Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-@caterpillardev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/caterpillardev)
