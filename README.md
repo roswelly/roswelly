@@ -1,6 +1,6 @@
 
 <p align="center">
-  <em> Blockchain Developer | Smart Contract Engineer | Full-Stack Web3 Developer</em>
+  <b> Blockchain Developer | Smart Contract Engineer | Full-Stack Web3 Developer</b>
 </p>
 
 ---
