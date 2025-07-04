@@ -1,16 +1,15 @@
 
 <p align="center">
-  <em>Senior Blockchain Developer | Smart Contract Engineer | Full-Stack Web3</em>
+  <em> Blockchain Developer | Smart Contract Engineer | Full-Stack Web3 Developer</em>
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-myrmekes.dev-blue?style=flat-square&logo=google-chrome)](https://myrmekes.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@myrmekes_btc-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/myrmekes_btc)
-[![GitHub](https://img.shields.io/badge/GitHub-myrmekes--a-181717?style=flat-square&logo=github)](https://github.com/myrmekes-a)
-[![Email](https://img.shields.io/badge/Email-buildwithm1ke7@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:buildwithm1ke7@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@caterpillardev_btc-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/caterpillardev)
+[![GitHub](https://img.shields.io/badge/GitHub-caterpillardev--a-181717?style=flat-square&logo=github)](https://github.com/myrmekes-a)
+[![Email](https://img.shields.io/badge/Email-yabidev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yabidev@gmail.com)
 
 ---
 
