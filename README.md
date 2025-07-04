@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mike Johnson</h1>
+
 <p align="center">
   <em>Senior Blockchain Developer | Smart Contract Engineer | Full-Stack Web3</em>
 </p>
