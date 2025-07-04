@@ -1,6 +1,6 @@
 
 <p align="center">
-  <b size='14'> Blockchain Developer | Smart Contract Engineer | Full-Stack Web3 Developer</b>
+  <b size='20'> Blockchain Developer | Smart Contract Engineer | Full-Stack Web3 Developer</b>
 </p>
 
 ---
