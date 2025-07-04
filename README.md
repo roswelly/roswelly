@@ -8,7 +8,7 @@
 ### 🔗 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-@caterpillardev_btc-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/caterpillardev)
-[![GitHub](https://img.shields.io/badge/GitHub-caterpillardev--a-181717?style=flat-square&logo=github)](https://github.com/myrmekes-a)
+[![GitHub](https://img.shields.io/badge/GitHub-caterpillardev--a-181717?style=flat-square&logo=github)](https://github.com/caterpillardev)
 [![Email](https://img.shields.io/badge/Email-yabidev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yabidev@gmail.com)
 
 ---
