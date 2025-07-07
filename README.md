@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-%23339933.svg?style=flat&logo=nest.js&logoColor=white" />
 </p>
 
 ### Let's Build Together
