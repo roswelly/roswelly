@@ -18,5 +18,3 @@
   <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" />
 </p>
-
-### Let's Build Together
