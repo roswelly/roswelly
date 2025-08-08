@@ -1,5 +1,5 @@
 
-## Blockchain Developer
+## Fullstack Web3 Developer
 
 ### Specializing in
 - smart contract developer
