@@ -7,12 +7,6 @@
 - defi engineer
 - Gamefi developer
 
-### Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-@caterpillardev-black?style=flat-square&logo=twitter&logoColor=grey)](https://twitter.com/caterpillardev)
-[![GitHub](https://img.shields.io/badge/GitHub-caterpillardev-white?style=flat-square&logo=github&logoColor=Grey)](https://github.com/caterpillardev)
-[![Email](https://img.shields.io/badge/Email-yabidev@gmail.com-red?style=flat-square&logo=gmail&logoColor=red)](mailto:yabidev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@caterpillardev-blue?style=flat-square&logo=telegram&logoColor=Blue)](https://t.me/caterpillardev)
-
 ### Tech Stack
 
 <p>
