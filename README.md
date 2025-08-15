@@ -2,10 +2,14 @@
 ## Fullstack Web3 Developer
 
 ### Specializing in
-- smart contract developer
-- trading bot developer
-- defi engineer
-- Gamefi developer
+- **Smart contracts** using **Rust + Anchor**
+- **On-chain trading automation** with **MEV-aware logic** (Jito block engine, bundle tipping)
+- **DeFi primitives**: bonding curves, vaults, liquidity tools
+- **Off-chain infra**: gRPC APIs, Solana RPC/WebSocket pipelines
+- Real-time data streaming for order flow, slots, balances & logs
+### Solana Tech Stack
+
+`Rust` • `Anchor` • `TypeScript` • `gRPC` • `Solana RPC` • `Docker` • `Fly.io` • `Supabase`
 
 ### Tech Stack
 
