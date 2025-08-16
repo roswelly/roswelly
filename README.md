@@ -9,7 +9,7 @@
 - Real-time data streaming for order flow, slots, balances & logs
 ### Solana Tech Stack
 
-`Rust` • `Anchor` • `TypeScript` • `Metaplex`• `token 2022` • `gRPC` • `Laserstream` • `Solana RPC` • `Docker` • `Fly.io` • `Supabase`
+`Rust` • `Anchor` • `TypeScript` • `Metaplex`• `Token 2022` • `gRPC` • `Laserstream` • `Solana RPC` • `Docker` • `Fly.io` • `Supabase`
 
 ### Blockchain 
 - Solana program(Anchor, Rust)
