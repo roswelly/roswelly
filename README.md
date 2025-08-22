@@ -12,8 +12,8 @@
 `Rust` • `Anchor` • `TypeScript` • `Metaplex`• `Token 2022` • `gRPC` • `Laserstream` • `Solana RPC` • `Docker` • `Fly.io` • `Supabase`
 
 ### Blockchain 
-- Solana program(Anchor, Rust)
-- EVM smart contract
+- Solana program (Anchor, Rust)
+- EVM smart contract (Solidity)
 - Solana & EVM Web3.js
 
 ### Working on 
