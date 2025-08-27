@@ -12,14 +12,10 @@
 `Rust` • `Anchor` • `TypeScript` • `Metaplex`• `Token 2022` • `gRPC` • `Laserstream` • `Solana RPC` • `Docker` • `Fly.io` • `Supabase`
 
 ### Blockchain 
-- Solana program (Anchor, Rust)
-- EVM smart contract (Solidity)
-- Solana & EVM Web3.js
+• Rust • Solidity • Golang • Solana • Ethereum • Substrate • EVM • Hardhat • Foundry 
 
-### Working on 
-- studying bonkfun program
-- drift v2 forking
-- studying infinit protocol
+### Programming Languages
+• Rust • golang • Javascript • Typescript • Python • PHP
 
 
 
