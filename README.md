@@ -1,5 +1,5 @@
 
-## Solana Engineer
+## Solana Engineer | Blockchain Developer | Fullstack Engineer
 
 ### Specializing in
 - **Smart contracts** using **Rust + Anchor**
