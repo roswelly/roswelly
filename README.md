@@ -13,10 +13,10 @@
 `Rust` • `Anchor` • `TypeScript` • `Metaplex`• `Token 2022` • `gRPC` • `Laserstream` • `Solana RPC` • `Docker` • `Fly.io` • `Supabase`
 
 ### Blockchain 
-• Rust • Solidity • Golang • Solana • Ethereum • Substrate • EVM • Hardhat • Foundry 
+• Rust • Solidity • Golang • Solana • BNB • Substrate • EVM • Hardhat • Foundry 
 
 ### Programming Languages
 • Rust • golang • Javascript • Typescript • Python • PHP
 
 
-### Currently working on Solana Lottery game and Trading bots
+### Currently working on Solana Casino Games and building on Four.Meme
