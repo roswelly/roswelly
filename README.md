@@ -17,6 +17,3 @@
 
 ### Programming Languages
 • Rust • golang • Javascript • Typescript • Python • PHP
-
-
-### Currently working on Solana Casino Games and building on Four.Meme
