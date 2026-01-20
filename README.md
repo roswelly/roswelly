@@ -1,3 +1,3 @@
 
-## Rust Engineer | Python Developer | Golang Engineer
+## Smart Contract Developer
 Take a look at my work
