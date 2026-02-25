@@ -1,7 +1,7 @@
 
-##  Web3 x AI Engineer
+##  Web3 x AI Engineer | Baas(Blockcahin-as-a-service) Developer
 ---
-### Building AI Agent + Encrypted DeFi + Baas (Blockchain-as-a-service)...
+### Building AI Agent + Encrypted DeFi + ...
 ---
 ### Scope
 - AI Agent with **x402** for trading (Polymarkets, Kalshi, Forex, Crypto)
