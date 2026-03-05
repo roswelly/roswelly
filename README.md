@@ -4,6 +4,7 @@
 ### Building AI Agent + Encrypted DeFi + ...
 ---
 ### Scope
+- Smart Contract and Web3 Integration
 - Trading Automation (Polymarkets, Kalshi, Forex, Crypto)
 - AI Agent with x402 for **Social Media** with **OpenClaw**
 - Trading Automation Platforms on Solana+EVM - **Token deployer with Bundle**, **Snipe**, **Onchain Tracker**, **MEV Strategy**
