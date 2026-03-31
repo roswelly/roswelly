@@ -1,5 +1,5 @@
 
-##  Smart Contract Engineer | Web3 x AI Engineer | Baas(Blockcahin-as-a-service) Developer
+##  Smart Contract Engineer | Web3 x AI Engineer 
 ---
 ### Building AI Agent + Encrypted DeFi + ...
 ---
