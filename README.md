@@ -16,16 +16,17 @@ I build the infrastructure that connects onchain capital with probabilistic reas
 ### Stack
 
 ```
- ── Smart Contracts ──────────────────────────────────────────
-  EVM       Solidity · Foundry · Hardhat · OpenZeppelin
-  Solana    Rust · Anchor · Solana Web3.js · SPL Tokens
+  Smart Contracts 
+  EVM       Solidity · Foundry · Hardhat · OpenZeppelin...
+  Solana    Rust · Anchor · Solana Web3.js · SPL Tokens...
 
-── Backend & Automation ─────────────────────────────────────
-            TypeScript · Python · Node.js · FastAPI
-            PostgreSQL · Redis · The Graph
+  Backend & Automation 
+  TypeScript · Python · Node.js · FastAPI
+  PostgreSQL · Redis · The Graph · MongoDB...
 
-── Protocols & Infra ────────────────────────────────────────
-            Chainlink · Pyth · UMA · Drift · Jupiter
+  Protocols & Infra 
+  Chainlink · Pyth · UMA · Drift · Jupiter... 
+  
 ```
 
 ---
