@@ -28,24 +28,12 @@ I build the infrastructure that connects onchain capital with probabilistic reas
   Chainlink · Pyth · UMA · Drift · Jupiter... 
   
 ```
-
----
-
-### Featured Repos
-
-| Project | Description |
-|---|---|
-| [`prediction-market-protocol`](https://github.com/YOURUSERNAME/prediction-market-protocol) | Permissionless AMM markets with onchain resolution |
-| [`trading-bot-framework`](https://github.com/YOURUSERNAME/trading-bot-framework) | Modular automation engine for market position management |
-| [`market-maker-bot`](https://github.com/YOURUSERNAME/market-maker-bot) | Liquidity provisioning bot for Polymarket CTF Exchange |
-| [`onchain-oracle-aggregator`](https://github.com/YOURUSERNAME/onchain-oracle-aggregator) | Multi-source oracle layer with dispute resolution |
-
 ---
 
 ### Stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark&hide_border=true&langs_count=5" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=roswelly&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roswelly&layout=compact&theme=dark&hide_border=true&langs_count=5" />
 
 ---
 
