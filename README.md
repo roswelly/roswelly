@@ -10,35 +10,10 @@ I build the infrastructure that connects onchain capital with probabilistic reas
 - **Trading Automation** - signal ingestion, position management, order routing, real-time risk controls
 - **Market Making** - liquidity provisioning, dynamic spread logic, inventory management on CLOB exchanges
 - **DeFi Infrastructure** - oracle aggregation, subgraph indexing, gas optimization
-
----
-
-### Stack
-
-```
-  Smart Contracts 
-  EVM       Solidity · Foundry · Hardhat · OpenZeppelin...
-  Solana    Rust · Anchor · Solana Web3.js · SPL Tokens...
-
-  Backend & Automation 
-  TypeScript · Python · Node.js · FastAPI
-  PostgreSQL · Redis · The Graph · MongoDB...
-
-  Protocols & Infra 
-  Chainlink · Pyth · UMA · Drift · Jupiter... 
-  
-```
----
-
-### Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=roswelly&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roswelly&layout=compact&theme=dark&hide_border=true&langs_count=5" />
-
 ---
 
 ### Connect
 
-[Twitter](https://twitter.com/YOURHANDLE) · [Farcaster](https://warpcast.com/YOURHANDLE) · [Mirror](https://mirror.xyz/YOURHANDLE) · [Email](mailto:yabidev@email.com)
+[Twitter](https://twitter.com/roswellyecho) · [Farcaster](https://warpcast.com/YOURHANDLE) · [Mirror](https://mirror.xyz/YOURHANDLE) · [Email](mailto:yabidev@email.com)
 
 > Open to collaborating on prediction market protocols, trading infrastructure, and mechanism design.
