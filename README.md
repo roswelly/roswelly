@@ -1,4 +1,4 @@
-# Smart contract & backend engineer focused on **prediction markets** and **trading automation systems**.
+# Smart contract & Backend engineer
 
 I build the infrastructure that connects onchain capital with probabilistic reasoning - from AMM protocols to fully automated market-making bots.
 
@@ -16,10 +16,16 @@ I build the infrastructure that connects onchain capital with probabilistic reas
 ### Stack
 
 ```
-Solidity · Foundry · Hardhat · OpenZeppelin
-TypeScript · Python · Node.js · FastAPI
-PostgreSQL · Redis · The Graph
-Chainlink · Pyth · UMA
+ ── Smart Contracts ──────────────────────────────────────────
+  EVM       Solidity · Foundry · Hardhat · OpenZeppelin
+  Solana    Rust · Anchor · Solana Web3.js · SPL Tokens
+
+── Backend & Automation ─────────────────────────────────────
+            TypeScript · Python · Node.js · FastAPI
+            PostgreSQL · Redis · The Graph
+
+── Protocols & Infra ────────────────────────────────────────
+            Chainlink · Pyth · UMA · Drift · Jupiter
 ```
 
 ---
