@@ -12,8 +12,4 @@ I build the infrastructure that connects onchain capital with probabilistic reas
 - **DeFi Infrastructure** - oracle aggregation, subgraph indexing, gas optimization
 ---
 
-### Connect
-
-[Twitter](https://twitter.com/roswellyecho) · [Farcaster](https://warpcast.com/YOURHANDLE) · [Mirror](https://mirror.xyz/YOURHANDLE) · [Email](mailto:yabidev@email.com)
-
 > Open to collaborating on prediction market protocols, trading infrastructure, and mechanism design.
