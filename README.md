@@ -14,3 +14,9 @@ I build the infrastructure that connects onchain capital with probabilistic reas
 ---
 
 > Open to collaborating on prediction market protocols, trading infrastructure, and mechanism design.
+
+**Smart Contracts** - Rust · Anchor · SPL · Solidity
+**Backend** - Rust (Axum, Tokio) · Go · TypeScript (Node) · gRPC · WebSocket · REST
+**Data** - PostgreSQL · ClickHouse · Redis · Kafka
+**Onchain Infra** - Geyser · Jito · Helius · Jupiter · Pyth · Switchboard · ORAO
+**Ops** - Docker · Kubernetes · Grafana · Prometheus
