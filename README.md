@@ -1,4 +1,6 @@
-# Rust smart contract dev & backend engineer · prediction markets · web3 casino engines · trading automation infra
+# Rust smart contract dev & backend engineer ·
+
+## prediction markets · web3 casino engines · trading automation infra
 
 I build the infrastructure that connects onchain capital with probabilistic reasoning - from AMM protocols to fully automated market-making bots.
 
