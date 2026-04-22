@@ -1,4 +1,4 @@
-# Rust smart contract dev & backend engineer ·
+# Rust smart contract dev · backend engineer 
 ---
 ### prediction markets · web3 casino engines · trading automation infra
 
